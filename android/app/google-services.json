@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592143569784",
+    "project_id": "imtixon-04",
+    "storage_bucket": "imtixon-04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592143569784:android:f764648d87c3b1c8e7ee8d",
+        "android_client_info": {
+          "package_name": "com.example.imitxon_04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU69wumCnfy1W3nvwyDT7lfz3hMtoMSSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592143569784:android:7c01df5d53661a23e7ee8d",
+        "android_client_info": {
+          "package_name": "com.example.tadbiroemas_78"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU69wumCnfy1W3nvwyDT7lfz3hMtoMSSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

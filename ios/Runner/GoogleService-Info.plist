@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDtCw6_56m4IyUWKhZae2zoA63sTGp_wUA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>592143569784</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tadbiroemas78</string>
+	<key>PROJECT_ID</key>
+	<string>imtixon-04</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imtixon-04.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:592143569784:ios:9dc5dd4d9a05bc8be7ee8d</string>
+</dict>
+</plist>
